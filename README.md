@@ -1,8 +1,14 @@
 # Sistema de Gestión de Empleados (MVC)
+![image](https://github.com/user-attachments/assets/63b4248f-2f4d-44d7-9b8d-14451338fffb)
 
 Aplicación web desarrollada con Spring Boot que implementa el patrón Modelo-Vista-Controlador (MVC), con Thymeleaf para las vistas y MySQL como base de datos. Incluye características para gestionar empleados y está preparada para ejecutarse localmente o en Docker.
 
 ---
+
+## 🌐 Demo en Vivo
+Accede a la aplicación aquí: https://employee-system-mvc.onrender.com
+
+Nota: puedo tardar en acceder a la página, por favor tenga paciencia.
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -30,6 +36,9 @@ Aplicación web desarrollada con Spring Boot que implementa el patrón Modelo-Vi
 - **Contenedorización con Docker**: Facilita despliegue y portabilidad.  
 
 ---
+
+![image](https://github.com/user-attachments/assets/194c7b33-b78b-4f45-8db5-8c6ccdee0c07)
+
 
 ## 🚀 Instalación y Ejecución
 
