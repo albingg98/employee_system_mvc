@@ -1,4 +1,4 @@
-Sistema de Gestión de Empleados - MVC
+# Sistema de Gestión de Empleados - MVC
 Aplicación web desarrollada con Spring Boot que implementa el patrón Modelo-Vista-Controlador (MVC), Programación Orientada a Aspectos (AOP) y utiliza Thymeleaf para la generación de vistas dinámicas. Permite el registro, gestión, validación y seguimiento de empleados, ofreciendo una interfaz intuitiva y funcionalidades robustas para la administración de personal. Proporciona funcionalidades completas de CRUD (Crear, Leer, Actualizar, Eliminar) y está desplegado en la plataforma Render.
 
 🌐 Demo en Vivo
