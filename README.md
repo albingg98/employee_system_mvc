@@ -5,52 +5,43 @@ Aplicación web desarrollada con Spring Boot que implementa el patrón Modelo-Vi
 Accede a la aplicación aquí: employee-system-mvc.onrender.com
 
 ## 🧩 Características Principales
-Registro y gestión de empleados: Añade, edita y elimina información de empleados.
+**Registro y gestión de empleados**: Añade, edita y elimina información de empleados.
  - Agregar Nuevo Empleado: Formulario para añadir nuevos empleados con validaciones integradas.
  - Editar Información: Modifica los datos de un empleado existente.
  - Eliminar Empleado: Elimina registros de empleados de manera segura.
-
-Validación de formularios: Asegura la integridad de los datos ingresados.
-
-Vistas dinámicas con Thymeleaf: Interfaz de usuario interactiva y amigable.
-
-Programación Orientada a Aspectos (AOP): Manejo de registros y seguimiento de acciones.
-
-Persistencia de datos: Integración con bases de datos para almacenamiento confiable.
-
-Contenedorización con Docker: Facilita el despliegue y la ejecución en diferentes entornos.
+**Validación de formularios**: Asegura la integridad de los datos ingresados.
+**Vistas dinámicas con Thymeleaf**: Interfaz de usuario interactiva y amigable.
+**Programación Orientada a Aspectos (AOP)**: Manejo de registros y seguimiento de acciones.
+**Persistencia de datos**: Integración con bases de datos para almacenamiento confiable.
+**Contenedorización con Docker**: Facilita el despliegue y la ejecución en diferentes entornos.
 
 ## 🛠️ Tecnologías Utilizadas
-🔧 Frameworks y Librerías
+**🔧 Frameworks y Librerías**
 Spring Boot – Framework principal para el desarrollo de la aplicación backend.
-
 Thymeleaf – Motor de plantillas para generar vistas HTML dinámicas.
 
-💻 Lenguajes
+**💻 Lenguajes**
 Java – Lenguaje principal de programación.
-
 HTML – Estructura de las vistas web.
 
-📦 Gestión de Dependencias
+**📦 Gestión de Dependencias**
 Maven – Herramienta para la construcción y gestión de dependencias del proyecto.
 
-🐳 Contenedorización
+**🐳 Contenedorización**
 Docker – Facilita la construcción, envío y ejecución de la aplicación en contenedores.
 
-🗄️ Base de Datos
+**🗄️ Base de Datos**
 MySQL – Sistema de gestión de bases de datos relacional utilizado para almacenar la información de empleados.
 
-☁️ Despliegue
+**☁️ Despliegue**
 Render – Plataforma utilizada para el despliegue automático y escalable de la aplicación en la nube.
 
-Requisitos Previos
-Java 11 o superior
+## Requisitos Previos
+- Java 11 o superior
+- Maven 3.6 o superior
+- Docker (opcional, para ejecución en contenedor)
 
-Maven 3.6 o superior
-
-Docker (opcional, para ejecución en contenedor)
-
-Instalación y Ejecución
+## 🚀 Instalación y Ejecución
 Clonar el Repositorio
 bash
 Copiar
