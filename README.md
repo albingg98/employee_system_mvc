@@ -4,7 +4,7 @@ Aplicación web desarrollada con Spring Boot que implementa el patrón Modelo-Vi
 ## 🌐 Demo en Vivo
 Accede a la aplicación aquí: employee-system-mvc.onrender.com
 
-##🧩 Características Principales
+## 🧩 Características Principales
 Registro y gestión de empleados: Añade, edita y elimina información de empleados.
  - Agregar Nuevo Empleado: Formulario para añadir nuevos empleados con validaciones integradas.
  - Editar Información: Modifica los datos de un empleado existente.
@@ -20,7 +20,7 @@ Persistencia de datos: Integración con bases de datos para almacenamiento confi
 
 Contenedorización con Docker: Facilita el despliegue y la ejecución en diferentes entornos.
 
-##🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 🔧 Frameworks y Librerías
 Spring Boot – Framework principal para el desarrollo de la aplicación backend.
 
